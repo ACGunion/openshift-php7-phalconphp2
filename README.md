@@ -1,2 +1,3 @@
-# openshift-php7-phalconphp2
-Install nginx, php7 and phalconphp 2 framework on RedHat openshift
+# openshift PHP7 测试环境
+PHP7 目前兼容性尚存在问题，请暂时不要用于生产环境。
+请不要使用这份我Fork的代码，由于做了简单修改未经任何测试，风险极大。
