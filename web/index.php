@@ -1,12 +1,12 @@
 <html>
 	<head>
-		<title>How to Install phalcon php on openshift </title>
+		<title>PHP7 Install Successfuly </title>
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 		<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	</head>
 	<body>
-		echo "<h1> Welcom to phalcon php framework development at OpenShift<hr/>";
-		echo "Please check phalcon extension below";
+		echo "<h1> PHP7 With Nginx Installed<hr/>";
+		echo "Show the PHPINFO";
 		phpinfo();
 	</body>
 </html>
